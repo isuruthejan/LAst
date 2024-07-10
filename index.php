@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Malabe Boys' school Technology Society</title>
+  <title>Malabe Boys' School Technology Society</title>
   <meta
     content="MBTS, ET, SFT, ICT,Malabe Boys' school, Malabe, Tech, Technology, Technology Society, Technology Section, Malabe Boys' school technology society"
     name="keywords">
@@ -15,13 +15,13 @@
   <meta name="author" content="Isuru Thejan " />
   <meta name="title" content="Malabe Boys' school Technology Society" />
   <meta name="og:title" content="Malabe Boys' school Technology Society" />
-  <meta name="og:description" content="The Official Website of the Malabe Boys' schoolTechnology Society" />
+  <meta name="og:description" content="The Official Website of the Malabe Boys School Technology Society" />
   <meta name="og:keywords"
     content="MBTS, ET, SFT, ICT,Malabe Boys' school, Malabe, Tech, Technology, Technology Society, Technology Section, Malabe Boys' school technology society" />
   <meta name="og:author" content="Isuru Thejan" />
 
   <!-- Favicons -->
-  <link href="https://i.ibb.co/DtRR9Lj/Untitled-1-page-0001.jpg" rel="icon">
+  <link href="https://i.ibb.co/mJKLtBP/webnew02.png" rel="icon">
 
   <!-- Google Fonts -->
   <link
@@ -46,8 +46,8 @@
   <link href="assets/css/style.css" rel="stylesheet">
   <script>
     var i = 0;
-    var txt = 'Malabe Boys school Technology Society'; /* The text */
-    var speed = 100; /* The speed/duration of the effect in milliseconds */
+    var txt = " Malabe Boys' School Technology Society"; /* The text */
+    var speed = 105; /* The speed/duration of the effect in milliseconds */
 
     function typeWriter() {
       if (i < txt.length) {
@@ -64,16 +64,16 @@
   <section id="hero">
     <div class="layer">
       <div class="hero-container">
-        <a href="index.php" class="hero-logo" data-aos="zoom-in"><img src="https://i.ibb.co/DtRR9Lj/Untitled-1-page-0001.jpg"
-            alt="Logo of the Malabe Boys' school Technology Society"></a>
+        <a href="index.php" class="hero-logo" data-aos="zoom-in"><img src="https://i.ibb.co/mJKLtBP/webnew02.png"
+            alt="https://i.ibb.co/mJKLtBP/webnew02.png"></a>
         <h1 data-aos="zoom-in">Welcome!<br>
           <p id="demo" style="color: rgb(0, 138, 255);"></p>
         </h1>
-        <!--<h2 data-aos="fade-up">- <span class="badge" style="color: rgb(140, 17, 72);">EXPERIENCE</span> - <span
+       <!-- <h2 data-aos="fade-up">- <span class="badge" style="color: rgb(140, 17, 72);">EXPERIENCE</span> - <span
             class="badge" style="color: rgb(140, 17, 72);">PRECISION</span> - <span class="badge"
             style="color: rgb(140, 17, 72);">EXCELLENCE</span> -
-        </h2>
-  -->
+        </h2>-->
+  
       </div>
     </div>
   </section><!-- End Hero -->
@@ -83,18 +83,16 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <a href="index.php"><img src="https://i.ibb.co/DtRR9Lj/Untitled-1-page-0001.jpg"
+        <a href="index.php"><img src="https://i.ibb.co/mJKLtBP/webnew02.png"
             alt="Logo of the Malabe Boys' school Technology Society" class="img-fluid"></a>
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#newsevents">About</a></li>
+          <li><a class="nav-link scrollto" href="#newsevents"> Events And Updates</a></li>
           <li><a class="nav-link scrollto" href="#subjects">Subjects</a></li>
           <li><a class="nav-link scrollto" href="#staff">Staff</a></li>
-          <li><a class="nav-link scrollto" href="#teamStructure">Teams</a></li>
-          <li><a class="nav-link scrollto" href="#members">Members</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <li><a class="nav-link scrollto" href="./gallery.php">Gallery</a></li>
           <li><a class="nav-link scrollto" href="./download.php">Download</a></li>
@@ -107,21 +105,21 @@
   </header>
   <!-- End Header -->
 
-  <!-- ======= Recent Blog Posts Section ======= -->
-  <section id="newsevents" class="recent-posts sections-bg">
+<!-- ======= Recent Blog Posts Section ======= -->
+<section id="newsevents" class="recent-posts sections-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2 class="text-center">About</h2>
+          <h2 class="text-center">Events And Updates</h2>
         </div>
-<!--
+
         <div class="row gy-4  mt-1">
 
           <div class="col-xl-4 col-md-6">
             <article>
 
               <div class="post-img" style="cursor: pointer;">
-                <img src="https://i.ibb.co/LZLfbZy/jpeg-optimizer-vecteezy-students-doing-practice-in-the-electronic-classroom-top-view-12713860-233.jpg" alt="Practical Workshop" class="img-fluid" onclick="">
+                <img src="https://i.ibb.co/y5NqQ5d/1-Vzexnc-B2-H2chkg-C87wcn-AA.jpg" alt="Technology Workshop" class="img-fluid" onclick="">
               </div>
 
               <p class="post-category">Event</p>
@@ -131,24 +129,24 @@
               </h2>
 
               <div class="d-flex align-items-center">
-                <img src="https://avatars.githubusercontent.com/DasunNethsara-04" alt="Author" class="img-fluid post-author-img flex-shrink-0" onclick="redirectToPage(3)" style="cursor: pointer;">
+                <img src="https://i.ibb.co/745YL6T/460x460.png%22%20alt=%22460x460" alt="Author" class="img-fluid post-author-img flex-shrink-0" onclick="redirectToPage(3)" style="cursor: pointer;">
                 <div class="post-meta">
-                  <p class="post-author" style="cursor: pointer;" title="Developer of the RCTS website" onclick="redirectToPage(3)">Dasun Nethsara</p>
+                  <p class="post-author" style="cursor: pointer;" title="Developer of the RCTS website" onclick="redirectToPage(3)">Isuru Thejan</p>
                   <p class="post-date">
-                    <time datetime="2022-01-01">Oct 6, 2023</time>
+                    <time datetime="2022-01-01">Dec 21, 2024</time>
                   </p>
                 </div>
               </div>
 
             </article>
           </div><!-- End post list item -->
-<!---
+
           <div class="col-xl-4 col-md-6">
             <article>
 
               <div class="post-img" style="cursor: pointer;">
-                <!-- <img src="https://i.ibb.co/kD5Rm0v/Rank-Post.png" alt="A/L Exam results released" class="img-fluid" onclick="redirectToPage(1)"> -->
-<!---                <img src="./assets/img/rankers2.png" alt="A/L Exam results released" class="img-fluid" onclick="redirectToPage(1)">
+                 <img src="https://i.ibb.co/VT968CS/teamwork-results-achievement-concept-3446-542.jpg" alt="A/L Exam results released" class="img-fluid" onclick="redirectToPage(1)"> 
+                
               </div>
 
               <p class="post-category">News</p>
@@ -158,9 +156,9 @@
               </h2>
 
               <div class="d-flex align-items-center">
-                <img src="https://avatars.githubusercontent.com/DasunNethsara-04" alt="Author" class="img-fluid post-author-img flex-shrink-0" onclick="redirectToPage(3)" style="cursor: pointer;">
+                <img src="https://i.ibb.co/745YL6T/460x460.png%22%20alt=%22460x460" alt="Author" class="img-fluid post-author-img flex-shrink-0" onclick="redirectToPage(3)" style="cursor: pointer;">
                 <div class="post-meta">
-                  <p class="post-author" style="cursor: pointer;" title="Developer of the RCTS website" onclick="redirectToPage(3)">Dasun Nethsara</p>
+                  <p class="post-author" style="cursor: pointer;" title="Developer of the BMSTC website" onclick="redirectToPage(3)">Isuru Thejan</p>
                   <p class="post-date">
                     <time datetime="2023-10-05">Sep 5, 2023</time>
                   </p>
@@ -169,24 +167,24 @@
 
             </article>
           </div><!-- End post list item -->
-<!---
+
           <div class="col-xl-4 col-md-6">
             <article>
 
               <div class="post-img" style="cursor: pointer;">
-                <img src="https://i.ibb.co/bXDgRw0/jpeg-optimizer-DSC-2501.jpg" alt="ENOVUS'23 Technology Day" class="img-fluid" onclick="redirectToPage(2)">
+                <img src="https://i.ibb.co/VwrNWRT/building-opening-ceremony-cutting-red-ribbon-business-38810584.webp" alt="ENOVUS'23 Technology Day" class="img-fluid" onclick="redirectToPage(2)">
               </div>
 
               <p class="post-category">Event</p>
 
               <h2 class="title">
-                <a href="gallery.php">Technology Day of Richmond College Technology Society</a>
+                <a href="gallery.php">Opening  Technology Lab</a>
               </h2>
 
               <div class="d-flex align-items-center">
-                <img src="https://avatars.githubusercontent.com/DasunNethsara-04" alt="Author" class="img-fluid post-author-img flex-shrink-0" onclick="redirectToPage(3)" style="cursor: pointer;">
+                <img src="https://i.ibb.co/745YL6T/460x460.png%22%20alt=%22460x460" alt="Author" class="img-fluid post-author-img flex-shrink-0" onclick="redirectToPage(3)" style="cursor: pointer;">
                 <div class="post-meta">
-                  <p class="post-author" style="cursor: pointer;" title="Developer of the RCTS website" onclick="redirectToPage(3)">Dasun Nethsara</p>
+                  <p class="post-author" style="cursor: pointer;" title="Developer of the BMSTC website" onclick="redirectToPage(3)">Isuru Thejan</p>
                   <p class="post-date">
                     <time datetime="2023-08-05">Aug 05, 2023</time>
                   </p>
@@ -215,12 +213,12 @@
             <article>
 
               <div class="post-img">
-                <img src="https://i.ibb.co/GT8CQHF/automation-work-flow-business-industrial-process-optimization-587448-4857.jpg" alt="Engineering Technology" class="img-fluid" onclick="">
+                <img src="https://i.ibb.co/1qGYTms/wp2922957.jpg" alt="Engineering Technology  " class="img-fluid" onclick="">
               </div>
 
               <h2 class="title">
-                Engineering Technology
-                Bioscience Technology
+                Engineering Technology 
+                Biosystems Technology
               </h2>
             </article>
           </div><!-- End subject item -->
@@ -229,7 +227,7 @@
             <article>
 
               <div class="post-img">
-                <img src="./assets/img/subjects/sft.jpg" alt="Science For Technology" class="img-fluid" onclick="">
+                <img src="https://i.ibb.co/chd525K/il-fullxfull-2629458692-6jde.webp" alt="Science For Technology" class="img-fluid" onclick="">
               </div>
 
               <h2 class="title">
@@ -242,7 +240,7 @@
             <article>
 
               <div class="post-img">
-                <img src="./assets/img/subjects/ict.jpg" alt="Information and Communication Technology" class="img-fluid" onclick="">
+                <img src="https://i.ibb.co/KXXgxnG/image.png" alt="Information and Communication Technology" class="img-fluid" onclick="">
               </div>
 
               <h2 class="title">
@@ -253,140 +251,171 @@
               </h2>
             </article>
           </div><!-- End subject item -->
-          <section id="subjects" class="recent-posts sections-bg">
-      <div class="container" data-aos="fade-up">
-
-      
-
 
         </div>
 
       </div>
     </section><!-- End subjects Section -->
 
-  <main id="main">
-    <section id="staff" class="team" style="background-color: #fff;">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2 style="color: #000;">Staff Members</h2>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="zoom-in">
-              <div class="member-img">
-                <!-- <img class="img-fluid" src="https://i.ibb.co/88mGJYr/img1.jpg" alt="Mr. M. G. U. K. Senavirathna"> -->
-                <img class="img-fluid" src="imagecopy.png" alt="Mr. Ravinsu">
-              </div>
-              <div class="member-info">
-                <h4 class="text-center" style="color: #000;">Mr. Ravindu</h4>
-                <span class="text-center"><b>Engineering Technology</b><br/> B. Ed(Honors) ET</span>
-              </div>
-            </div>
-          </div>
-<!---
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="zoom-in" data-aos-delay="100">
-              <div class="member-img">
-                <img src="./assets/img/img2.jpg" class="img-fluid" alt="Mr. Wedika Vidurinda">
-              </div>
-              <div class="member-info">
-                <h4 class="text-center" style="color: #000;">Mr. Wedika Vidurinda</h4>
-                <span class="text-center"><b>Information and Communication Technology</b><br/>BSc IT, PGDE</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="zoom-in" data-aos-delay="100">
-              <div class="member-img">
-                <img src="./assets/img/img7.png" class="img-fluid" alt="Mr. M. G. P. Prasanna">
-              </div>
-              <div class="member-info">
-                <h4 class="text-center" style="color: #000;">Mr. M. G. P. Prasanna</h4>
-                <span class="text-center"><b>Information and Communication Technology</b><br/>BIT(UCSC), NCOE(ICT-EM) </span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="zoom-in" data-aos-delay="200">
-              <div class="member-img">
-                <img src="./assets/img/img6.png" class="img-fluid" alt="Mr. M. L. Nishantha Kumara">
-              </div>
-              <div class="member-info">
-                <h4 class="text-center" style="color: #000;">Mr. M. L. Nishantha Kumara (Former)</h4>
-                <span class="text-center"><b>Science For Technology</b><br/>NCOE(Science), B. Ed</span>
-              </div>
-            </div>
-          </div>
-
-          
-
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="zoom-in">
-              <div class="member-img">
-                <img class="img-fluid" src="./assets/img/img4.jpg" alt="Mrs. Sanuja Samanmali">
-
-              </div>
-              <div class="member-info">
-                <h4 class="text-center" style="color: #000;">Mrs. Sanuja Samanmali</h4>
-                <span class="text-center"><b>Science For Technology</b><br/>BSc (Honors) in Physical Science, PGDE</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="zoom-in" data-aos-delay="200">
-              <div class="member-img">
-                <img src="./assets/img/img5.jpg" class="img-fluid" alt="Mrs. Achini Gunawardhana">
-              </div>
-              <div class="member-info">
-                <h4 class="text-center" style="color: #000;">Mrs. Achini Gunawardhana</h4>
-                <span class="text-center"><b>Engineering Technology</b><br/>HNDE, B. Ed(Honors) ET</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="zoom-in">
-              <div class="member-img">
-                <img class="img-fluid" src="./assets/img/img3.jpg" alt="Mrs. Ruchika Wijayathunga">
-              </div>
-              <div class="member-info">
-                <h4 class="text-center" style="color: #000;">Mrs. Ruchika Wijayathunga</h4>
-                <span class="text-center"><b>Engineering Technology</b><br/>NDES, B. Ed(Honors) ET</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="zoom-in">
-              <div class="member-img">
-                <img class="img-fluid" src="./assets/img/user2.png" alt="Mrs. H. K. Achini Ruvangi">
-
-              </div>
-              <div class="member-info">
-                <h4 class="text-center" style="color: #000;">Mrs. H. K. Achini Ruvangi</h4>
-                <span class="text-center"><b>Science For Technology</b><br/>BSc in Physical Science, PGDE</span>
-              </div>
-            </div>
-          </div>
-        </div>
-        </div>
-
+    <main id="main">
+  <section id="staff" class="team" style="background-color: #fff">
+    <div class="container">
+      <div class="section-title" data-aos="fade-up">
+        <h2 style="color: #000">Staff Members</h2>
       </div>
-    </section><!-- End Team Section -->
 
+      
+
+        <div class="row">
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="zoom-in">
+              <div class="member-img">
+                <img
+                  class="img-fluid"
+                  src="https://i.ibb.co/TkLBLwn/Ravindu-sir2.png"
+                  alt="Test"
+                />
+              </div>
+              <div class="member-info">
+                <h4 class="text-center" style="color: #000">
+                Mr.M.M.R.S Kumara
+                </h4>
+                <span class="text-center"
+                  ><b>Engineering Technology</b><br />BEd. Engineering Technology 
+                  Diploma in Technology</span
+                >
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="zoom-in" data-aos-delay="200">
+              <div class="member-img">
+                <img
+                  src="https://i.ibb.co/M9KdbQ8/sashini.png"
+                  class="img-fluid"
+                  alt="Test"
+                />
+              </div>
+              <div class="member-info">
+                <h4 class="text-center" style="color: #000">
+              Mrs.H.H.Sasani Prabodika  
+                </h4>
+                <span class="text-center"
+                  ><b>Science For Technology</b><br />Bio System Technology 
+Science for Technology 
+BASC(Special),MPhil
+Uva Wellassa Universitya</span
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="zoom-in">
+              <div class="member-img">
+                <img
+                  class="img-fluid"
+                  src="https://i.ibb.co/881KGFY/Untitled-3.png"
+                  alt="Testa"
+                />
+              </div>
+              <div class="member-info">
+                <h4 class="text-center" style="color: #000">
+                Mrs.J Dulasha Perera 
+                </h4>
+                <span class="text-center"
+                  ><b>Science For Technology</b><br />BSc (physical science colombo )</span
+                >
+              </div>
+            </div>
+            
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="zoom-in">
+              <div class="member-img">
+                <img
+                  class="img-fluid"
+                  src="https://i.ibb.co/St96XNX/Untitled-1.png"
+                  alt="Test"
+                />
+              </div>
+              <div class="member-info">
+                <h4 class="text-center" style="color: #000">
+                Mrs.W.M.R. Subhashini Wickramanayake 
+                </h4>
+                <span class="text-center"
+                  ><b>Agriculture</b><br />BSc. Agriculture (Special ) Agribusiness Management 
+                  Wayamba University of Sri Lanka</span
+                >
+              </div>
+            </div>
+          </div>
+          <div class="row">
+
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member" data-aos="zoom-in">
+                <div class="member-img">
+                  <!-- <img class="img-fluid" src="https://i.ibb.co/88mGJYr/img1.jpg" alt="Mr. M. G. U. K. Senavirathna"> -->
+                  <img class="img-fluid" src="https://i.ibb.co/NCWCPHN/1.png" alt="">
+                </div>
+                <div class="member-info">
+                  <h4 class="text-center" style="color: #000;">Mr.D.L.H.S.Sisira Kumara
+                  </h4>
+                  <span class="text-center"><b>Information And Communications Technology</b><br/>B.I.T.(Colombo) .N.l.E.Trained</span>
+                </div>
+              </div>
+            </div>
+  
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member" data-aos="zoom-in" data-aos-delay="100">
+                <div class="member-img">
+                  <img src="https://i.ibb.co/0jkxp45/Untitled-2.png" class="img-fluid" alt="Mr. Wedika Vidurinda">
+                </div>
+                <div class="member-info">
+                  <h4 class="text-center" style="color: #000;">Mrs.G.Chathurika Wijethilaka</h4>
+                  <span class="text-center"><b>information and communications technology</b><br/>BSC IT Degree
+                  PGDE</span>
+                </div>
+              </div>
+            </div>
+  
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member" data-aos="zoom-in" data-aos-delay="100">
+                <div class="member-img">
+                  <img src="./assets/img/user2.png" class="img-fluid" alt="Test">
+                </div>
+                <div class="member-info">
+                  <h4 class="text-center" style="color: #000;">Test</h4>
+                  <span class="text-center"><b>Test</b><br/>Test</span>
+                </div>
+              </div>
+            </div>
+  
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member" data-aos="zoom-in" data-aos-delay="200">
+                <div class="member-img">
+                  <img src="./assets/img/user2.png" class="img-fluid" alt="Mr. M. L. Nishantha Kumara">
+                </div>
+                <div class="member-info">
+                  <h4 class="text-center" style="color: #000;">Test</h4>
+                  <span class="text-center"><b>Test</b><br/>Test</span>
+                </div>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Team Section -->
+  
+<!--- 
     <section id="teamStructure" class="services" style="background-color: #fff;">
       <div class="container">
 
-        <div class="section-title" data-aos="fade-up">
+       <div class="section-title" data-aos="fade-up">
           <h2 style="color: #000;">Teams</h2>
-          <!-- <p>These are the teams under the Technology Society</p> -->
+          <p>These are the teams under the Technology Society</p> 
         </div>
 
         <div class="row">
@@ -398,7 +427,7 @@
             </div><br />
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <i class="fa fa-code" aria-hidden="true"></i>
-              <h4 style="color: #000;">designing /h4>
+              <h4 style="color: #000;">designing </h4>
               <p>create potos</p>
             </div><br />
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
@@ -416,49 +445,8 @@
 
       </div>
     </section>
-
-    <!-- ======= Members Section ======= -->
-  <section id="members" class="team recent-posts sections-bg">
-    <div class="container" data-aos="fade-up">
-      <div class="section-header">
-        <h2 class="text-center">Members</h2>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-6">
-          <div class="member" data-aos="zoom-in">
-            <div class="member-img">
-              <img class="img-fluid" src="image.png" alt="Card image">
-            </div>
-            <div class="member-info">
-              <!-- 640X960  -->
-              <br />
-              <h4 class="text-center" style="color: #000;">user 1</h4>
-              <span class="text-center">user1</span>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-6">
-          <div class="member" data-aos="zoom-in">
-            <div class="member-img">
-              <img class="img-fluid" src="image.png" alt="Card image">
-            </div>
-            <div class="member-info">
-              <!-- 640X960  -->
-              <br />
-              <h4 class="text-center" style="color: #000;">user 1</h4>
-              <span class="text-center">user1</span>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-6">
-          <div class="member" data-aos="zoom-in">
-            <div class="member-img">
-              <img class="img-fluid" src="image.png" alt="Card image">
-            </div>
-            <div class="member-info">
-              <!-- 640X960  -->
-              <br />
-              <h4 class="text-center" style="color: #000;">user 1</h4>
-              <span class="text-center">user1</span>
+  --------->
+    
             </div>
           </div>
         </div>
@@ -557,13 +545,12 @@
         <div class="row justify-content-center">
           <div class="col-lg-6">
             <a href=" #web link " class="scrollto footer-logo"><img
-                src="https://i.ibb.co/8Pkq2xb/Malabe-models-school.jpg" alt="Logo of the Richmond College"></a>
-            <a href="#header" class="scrollto footer-logo"><img src="https://i.ibb.co/DtRR9Lj/Untitled-1-page-0001.jpg"
+                src="https://i.ibb.co/F5qkJhg/IMG-20240627-WA0077.png" alt="Logo of the Malabe Boys College"></a>
+            <a href="#header" class="scrollto footer-logo"><img src="https://i.ibb.co/mJKLtBP/webnew02.png"
                 alt="Logo of the Richmond College Technology Society" style="margin-left: 10px;"></a>
-            <h3> Malabe Boys schoolTechnology Society</h3>
+            <h3> Malabe Boys School Technology Society</h3>
             <p>Malabe Boys school is a school with both primary and secondary sections located in Malabe, Sri Lanka.
-              Today, Malabe Boys school
-               is  best schools in Sri Lanka.</p>
+              </p>
           </div>
         </div>
 
@@ -589,7 +576,7 @@
                     title="Click to go to the LinkedIn profile of the Developer">Isuru Thejan</span>
             </div>      
         </div>
-  </footer> End Footer 
+  </footer> <!-- End Footer-->
             
 
   <!-- loading screen -->
