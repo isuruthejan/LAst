@@ -5,18 +5,18 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/fonts/icomoon/style.css">
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-    <meta name="description" content="The Official Website of the Richmond College Technology Society" />
-    <meta name="author" content="Dasun Nethsara" />
-    <meta name="title" content="Login | Richmond College Technology Society" />
-    <meta name="og:title" content="Login | Richmond College Technology Society" />
-    <meta name="og:description" content="The Official Website of the Richmond College Technology Society" />
+    <meta name="description" content="The Official Website of the Malabe Boys' school Technology Society" />
+    <meta name="author" content="Isuru Thejan" />
+    <meta name="title" content="Login | Malabe Boys' school Technology Society" />
+    <meta name="og:title" content="Login | Malabe Boys' school Technology Society" />
+    <meta name="og:description" content="The Official Website of the Malabe Boys School Technology Society" />
     <meta name="og:keywords"
-        content="RCTS, ET, SFT, ICT, Richmond College, Galle, Tech, Technology, Technology Society, Technology Section, richmond college technology society" />
-    <meta name="og:author" content="Dasun Nethsara" />
+        content="MBTS, ET, SFT, ICT,Malabe Boys' school, Malabe, Tech, Technology, Technology Society, Technology Section, Malabe Boys' school technology society" />
+    <meta name="og:author" content="Isuru Thejan" />
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - MBSC</title>
+    <title>Login | Malabe Boys' school Technology Society</title>
     <link href="assets/img/rcts/Logo Tech (2).png" rel="icon">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style_home.css">
