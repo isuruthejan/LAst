@@ -49,18 +49,18 @@
         <div class="container d-flex align-items-center justify-content-between">
 
             <div class="logo">
-                <a href="index.php"><img src="https://i.ibb.co/DtRR9Lj/Untitled-1-page-0001.jpg"
+                <a href="index.php"><img src="https://i.ibb.co/mJKLtBP/webnew02.png"
                         alt="Image of Richmond College Technology Society" class="img-fluid"></a>
             </div>
 
             <nav id="navbar" class="navbar">
                 <ul>
 					<li><a class="nav-link scrollto" href="index.php#hero">Home</a></li>
-                  <li><a class="nav-link scrollto" href="index.php#newsevents">News & Events</a></li>
+                  <li><a class="nav-link scrollto" href="index.php#newsevents">Events And Updates</a></li>
                   <li><a class="nav-link scrollto" href="index.php#subjects">Subjects</a></li>
                   <li><a class="nav-link scrollto" href="index.php#staff">Staff</a></li>
-                  <li><a class="nav-link scrollto" href="index.php#teamStructure">Teams</a></li>
-                  <li><a class="nav-link scrollto" href="index.php#members">Members</a></li>
+                  
+                  
                   <li><a class="nav-link scrollto" href="index.php#contact">Contact</a></li>
                   <li><a class="nav-link scrollto active" href="./gallery.php">Gallery</a></li>
                   <li><a class="nav-link scrollto" href="./download.php">Download</a></li>
@@ -233,10 +233,10 @@
 <!---
 	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
 	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/LNyxjgZ/jpeg-optimizer-DSC-2511.jpg" class="img-fluid" alt="">
+	              <img src="" class="img-fluid" alt="">
 	              <div class="portfolio-info">
 	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/LNyxjgZ/jpeg-optimizer-DSC-2511.jpg" data-gallery="portfolioGallery"
+	                  <a href="" data-gallery="portfolioGallery"
 	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
 	                </div>
 	              </div>
@@ -245,10 +245,10 @@
 
 	          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
 	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/k93csr7/jpeg-optimizer-DSC-2552.jpg" class="img-fluid" alt="">
+	              <img src="" class="img-fluid" alt="">
 	              <div class="portfolio-info">
 	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/k93csr7/jpeg-optimizer-DSC-2552.jpg" data-gallery="portfolioGallery"
+	                  <a href="" data-gallery="portfolioGallery"
 	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
 	                </div>
 	              </div>
@@ -257,10 +257,10 @@
 
 	          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
 	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/wBgCd4V/jpeg-optimizer-DSC-2563.jpg" class="img-fluid" alt="">
+	              <img src="" class="img-fluid" alt="">
 	              <div class="portfolio-info">
 	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/wBgCd4V/jpeg-optimizer-DSC-2563.jpg" data-gallery="portfolioGallery"
+	                  <a href="" data-gallery="portfolioGallery"
 	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
 	                </div>
 	              </div>
@@ -269,10 +269,10 @@
 
 	          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
 	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/fHx2Gvz/DSC-3900.jpg" class="img-fluid" alt="">
+	              <img src="" class="img-fluid" alt="">
 	              <div class="portfolio-info">
 	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/fHx2Gvz/DSC-3900.jpg" data-gallery="portfolioGallery"
+	                  <a href="" data-gallery="portfolioGallery"
 	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
 	                </div>
 	              </div>
@@ -281,369 +281,22 @@
 
 	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
 	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/h7z2ntj/DSC-4082.jpg" class="img-fluid" alt="">
+	              <img src="" class="img-fluid" alt="">
 	              <div class="portfolio-info">
 	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/h7z2ntj/DSC-4082.jpg" data-gallery="portfolioGallery"
+	                  <a href="" data-gallery="portfolioGallery"
 	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
 	                </div>
 	              </div>
 	            </div>
 	          </div>
 
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/D7vBjjH/jpeg-optimizer-DSC-2485.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/D7vBjjH/jpeg-optimizer-DSC-2485.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/bXDgRw0/jpeg-optimizer-DSC-2501.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/bXDgRw0/jpeg-optimizer-DSC-2501.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div> 
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/5GvgpgB/jpeg-optimizer-DSC-2568.jpg" class=" img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/5GvgpgB/jpeg-optimizer-DSC-2568.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/bv9nLQp/jpeg-optimizer-DSC-2596.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/bv9nLQp/jpeg-optimizer-DSC-2596.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/cNtGM5y/jpeg-optimizer-DSC-2624.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/cNtGM5y/jpeg-optimizer-DSC-2624.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/CK2Wp7T/jpeg-optimizer-DSC-2628.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/CK2Wp7T/jpeg-optimizer-DSC-2628.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/stQq4W3/jpeg-optimizer-DSC-1952.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/stQq4W3/jpeg-optimizer-DSC-1952.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/SK3gGGq/jpeg-optimizer-DSC-2643.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/SK3gGGq/jpeg-optimizer-DSC-2643.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/kyJZvgh/jpeg-optimizer-DSC-2645.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/kyJZvgh/jpeg-optimizer-DSC-2645.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/xMNWXVR/jpeg-optimizer-DSC-3636.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/xMNWXVR/jpeg-optimizer-DSC-3636.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/FxPKbvq/jpeg-optimizer-DSC-3650.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/FxPKbvq/jpeg-optimizer-DSC-3650.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/ScjyC6T/img2.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/ScjyC6T/img2.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/Xtqh8kW/jpeg-optimizer-DSC-3693.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/Xtqh8kW/jpeg-optimizer-DSC-3693.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/2tBywJF/jpeg-optimizer-DSC-3785.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/2tBywJF/jpeg-optimizer-DSC-3785.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/bd2NmWm/jpeg-optimizer-DSC-3787.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/bd2NmWm/jpeg-optimizer-DSC-3787.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/WHGnwzQ/jpeg-optimizer-DSC-3798.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/WHGnwzQ/jpeg-optimizer-DSC-3798.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/rQH2XYX/jpeg-optimizer-DSC-3805.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/rQH2XYX/jpeg-optimizer-DSC-3805.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/mBpMyL1/jpeg-optimizer-DSC-3816.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/mBpMyL1/jpeg-optimizer-DSC-3816.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/SynC0wc/jpeg-optimizer-DSC-3889.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/SynC0wc/jpeg-optimizer-DSC-3889.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/tHR5nTR/jpeg-optimizer-DSC-3953.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/tHR5nTR/jpeg-optimizer-DSC-3953.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/6WprgC4/jpeg-optimizer-DSC-3985.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/6WprgC4/jpeg-optimizer-DSC-3985.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/64jD54z/jpeg-optimizer-DSC-2287.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/64jD54z/jpeg-optimizer-DSC-2287.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/ZBDcZfs/jpeg-optimizer-DSC-2253.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/ZBDcZfs/jpeg-optimizer-DSC-2253.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/3rhjTkS/jpeg-optimizer-DSC-2335.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/3rhjTkS/jpeg-optimizer-DSC-2335.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/866D8SK/jpeg-optimizer-DSC-2443.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/866D8SK/jpeg-optimizer-DSC-2443.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/64yxdyK/jpeg-optimizer-DSC-2394.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/64yxdyK/jpeg-optimizer-DSC-2394.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/St8MdZ0/jpeg-optimizer-DSC-2520.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/St8MdZ0/jpeg-optimizer-DSC-2520.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/znbZ2gm/jpeg-optimizer-DSC-2216.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/znbZ2gm/jpeg-optimizer-DSC-2216.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-
-	          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-	            <div class="portfolio-wrap">
-	              <img src="https://i.ibb.co/Zh7p9hB/jpeg-optimizer-DSC-2459.jpg" class="img-fluid" alt="">
-	              <div class="portfolio-info">
-	                <div class="portfolio-links">
-	                  <a href="https://i.ibb.co/Zh7p9hB/jpeg-optimizer-DSC-2459.jpg" data-gallery="portfolioGallery"
-	                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-	                </div>
-	              </div>
-	            </div>
-	          </div>
-	        </div>
+	         
 
 	      </div>
 	    </section>
-<!---
-    </main><!-- End #main -->
+
+    </main> <!- End #main -->
 
     
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
@@ -688,48 +341,3 @@
 </html>
 
 
-
-<!-- ======= Footer ======= 
-<footer id="footer">
-        <div class="footer-top">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-6">
-                        <a href="https://richmondcollege.lk" class="scrollto footer-logo"><img
-                                src="https://i.ibb.co/27q0FvJ/Richmond-Colleg-LOGO.png" alt="Image of Richmond College"></a>
-                        <a href="#header" class="scrollto footer-logo"><img src="https://i.ibb.co/JF8nBS1/Logo-Tech-2.png"
-                                alt="Image of Richmond College Technology Society" style="margin-left: 10px;"></a>
-                        <h3>Richmond College Technology Society</h3>
-                        <p>Richmond College is a school with both primary and secondary sections located in Galle,
-                            Sri
-                            Lanka.
-                            Today, Richmond
-                            College is one of the best schools in Sri Lanka. Richmond College, now in its second
-                            century,
-                            has been
-                            shaped by many
-                            people.</p>
-                    </div>
-
-                </div>
-                <div class="social-links">
-                    <a href="https://www.facebook.com/profile.html?id=100090979585946" class="facebook"><i
-                            class="bx bxl-facebook"></i></a>
-                    <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                    <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                    <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-                    <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                </div>
-            </div>
-        </div>
-
-        <div class="container footer-bottom clearfix">
-            <div class="copyright">
-                &copy; Copyright <strong><span>RCTS</span></strong>. All Rights Reserved
-            </div>
-            <div class="credits">
-                Designed and Developed by <span onclick="redirect();"
-                    title="Click to go to the LinkedIn profile of the Developer">Dasun Nethsara</span>
-            </div>
-        </div>
-    </footer><!-- End Footer -->
