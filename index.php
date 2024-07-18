@@ -383,7 +383,7 @@ Uva Wellassa Universitya</span
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="zoom-in" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="./assets/img/user2.png" class="img-fluid" alt="Test">
+                  <img src="https://i.ibb.co/MCBwkPb/user2.png" class="img-fluid" alt="Test">
                 </div>
                 <div class="member-info">
                   <h4 class="text-center" style="color: #000;">Test</h4>
@@ -395,7 +395,7 @@ Uva Wellassa Universitya</span
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="zoom-in" data-aos-delay="200">
                 <div class="member-img">
-                  <img src="./assets/img/user2.png" class="img-fluid" alt="Mr. M. L. Nishantha Kumara">
+                  <img src="https://i.ibb.co/MCBwkPb/user2.png" class="img-fluid" alt="">
                 </div>
                 <div class="member-info">
                   <h4 class="text-center" style="color: #000;">Test</h4>
